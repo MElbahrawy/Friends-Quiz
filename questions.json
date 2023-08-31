@@ -1,82 +1,152 @@
 [
     {
-        "title": "What pet did Ross own?",
-        "answer_1": "A dog named Keith",
-        "answer_2": "A rabbit called Lancelot",
-        "answer_3": "A monkey named Marcel",
-        "answer_4": "A lizard named Alistair",
-        "right_answer": "A monkey named Marcel"
+        "title": "What is Monica's biggest pet peeve?",
+        "category": "Fears & Pet Peeves",
+        "image": "https://s2.r29static.com/bin/entry/cad/x/1347260/image.jpg",
+        "answer_1": "Animals dressed as humans.",
+        "answer_2": "Cats",
+        "answer_3": "Rabbits",
+        "answer_4": "Big pets",
+        "right_answer": "Animals dressed as humans."
     },
     {
-        "title": "What is Monica skilled at?",
-        "answer_1": "Bricklaying",
-        "answer_2": "Cooking",
-        "answer_3": "American football",
-        "answer_4": "Singing",
-        "right_answer": "Cooking"
+        "title": "According to Chandler, what phenomenon scares the bejesus out of him?",
+        "category": "Fears & Pet Peeves",
+        "img": "https://s1.r29static.com/bin/entry/158/x/1347262/image.jpg",
+        "answer_1": "Ian McKellen, 'Lord of the Rings'",
+        "answer_2": "Michael Flatley, 'Lord of the Dance'",
+        "answer_3": "William Golding, 'Lord of the Flies'",
+        "answer_4": "none of these",
+        "right_answer": "Michael Flatley, 'Lord of the Dance'"
     },
     {
-        "title": "The series Friends is set in which city?",
-        "answer_1": "Los Angeles",
-        "answer_2": "New York City",
-        "answer_3": "Miami",
-        "answer_4": "Seattle",
-        "right_answer": "New York City"
+        "title": "Monica and I had a grandmother who died. You both went to her funeral. Name that grandmother.",
+        "category": "It's All Relative",
+        "img": "https://s1.r29static.com/bin/entry/815/x/1347271/image.jpg",
+        "answer_1": "Althea",
+        "answer_2": "Ethel",
+        "answer_3": "Andrea",
+        "answer_4": "Anthea",
+        "right_answer": "Althea"
     },
     {
-        "title": "Monica briefly dates billionaire Pete Becker. Which country does he take her for their first date?",
-        "answer_1": "France",
-        "answer_2": "Italy",
-        "answer_3": "England",
-        "answer_4": "Greece",
-        "right_answer": "Italy"
+        "title": "Every week, the TV Guide comes to Chandler and Joey's apartment. What name appears on the address label",
+        "category": "Literature",
+        "img": "https://s2.r29static.com/bin/entry/60d/x/1347357/image.gif",
+        "answer_1": "Miss Chanandler Bong",
+        "answer_2": "Mr Chandler Bing",
+        "answer_3": "Miss Joey",
+        "answer_4": "Mr Chandler Bong",
+        "right_answer": "Miss Chanandler Bong"
     },
     {
-        "title": "What’s the name of Joey’s penguin?",
-        "answer_1": "Snowflake",
-        "answer_2": "Waddle",
-        "answer_3": "Huggsy",
-        "answer_4": "Bobber",
-        "right_answer": "Huggsy"
+        "title": "What is the name of Chandler's father's Las Vegas all male burlesque?",
+        "category": "It's All Relative",
+        "img": "https://s1.r29static.com/bin/entry/5a4/x/1347360/image.jpg",
+        "answer_1": "Viva Gaygas",
+        "answer_2": "None of these",
+        "answer_3": "Las Gaygas",
+        "answer_4": "Viva Las Gaygas",
+        "right_answer": "Viva Las Gaygas"
     },
     {
-        "title": "What song is Phoebe best known for?",
-        "answer_1": "Smelly Cat",
-        "answer_2": "Smelly Dog",
-        "answer_3": "Smelly Rabbit",
-        "answer_4": "Smelly Worm",
-        "right_answer": "Smelly Cat"
+        "title": "What was Monica's nickname when she was a field hockey goalie?",
+        "category": "The Lightning Round",
+        "img": "https://s2.r29static.com/bin/entry/cba/x/1347378/image.jpg",
+        "answer_1": "Big Fat Goalie",
+        "answer_2": "Big Fat Monica",
+        "answer_3": "Big Ole Goalie",
+        "answer_4": "Gross Goalie",
+        "right_answer": "Big Fat Goalie"
     },
     {
-        "title": "What job does Ross have?",
-        "answer_1": "Paleontologist",
-        "answer_2": "Artist",
-        "answer_3": "Photographer",
-        "answer_4": "Insurance salesman",
-        "right_answer": "Paleontologist"
+        "title": "Rachel claims this is her favorite movie.",
+        "category": "The Lightning Round",
+        "img": "https://s1.r29static.com/bin/entry/5ac/x/1347392/image.jpg",
+        "answer_1": "Weekend At Bernie's",
+        "answer_2": "Dangerous Liaisons",
+        "answer_3": "Independence Day",
+        "answer_4": "Goldeneye",
+        "right_answer": "Dangerous Liaisons"
     },
     {
-        "title": "What does Joey never share?",
-        "answer_1": "His books",
-        "answer_2": "His information",
-        "answer_3": "His food",
-        "answer_4": "His DVDs",
-        "right_answer": "His food"
+        "title": "What is Rachel's actual favorite movie?",
+        "category": "The Lightning Round",
+        "img": "https://s2.r29static.com/bin/entry/14a/x/1347398/image.jpg",
+        "answer_1": "Weekend At Bernie's",
+        "answer_2": "Goldeneye",
+        "answer_3": "Dangerous Liaisons",
+        "answer_4": "Independence Day",
+        "right_answer": "Weekend At Bernie's"
     },
     {
-        "title": "What is Janice most likely to say?",
-        "answer_1": "Talk to the hand!",
-        "answer_2": "Get me a coffee!",
-        "answer_3": "Oh… my… God!",
-        "answer_4": "No way!",
-        "right_answer": "Oh… my… God!"
+        "title": "In what part of her body did Monica get a pencil stuck at age 14?",
+        "category": "The Lightning Round",
+        "img": "https://s3.r29static.com/bin/entry/77d/x/1347425/image.jpg",
+        "answer_1": "Eye",
+        "answer_2": "Nose",
+        "answer_3": "Arm",
+        "answer_4": "Ear",
+        "right_answer": "Ear"
     },
     {
-        "title": "What are Ross and Monica’s parents called?",
-        "answer_1": "Jack and Jill",
-        "answer_2": "Philip and Holly",
-        "answer_3": "Jack and Judy",
-        "answer_4": "Margaret and Peter",
-        "right_answer": "Jack and Judy"
+        "title": "Monica categorizes her towels. How many categories are there?",
+        "category": "The Lightning Round",
+        "img": "https://s2.r29static.com/bin/entry/4a2/x/1347432/image.gif",
+        "answer_1": "22",
+        "answer_2": "17",
+        "answer_3": "11",
+        "answer_4": "7",
+        "right_answer": "11"
+    },
+    {
+        "title": "What is Joey's favorite food?",
+        "category": "The Lightning Round",
+        "img": "https://s3.r29static.com/bin/entry/53d/x/1347449/image.gif",
+        "answer_1": "Sandwiches",
+        "answer_2": "Chips",
+        "answer_3": "Donuts",
+        "answer_4": "Tacos",
+        "right_answer": "Sandwiches"
+    },
+    {
+        "title": "Chandler was how old when he first touched a girl's breast?",
+        "category": "The Lightning Round",
+        "img": "https://s1.r29static.com/bin/entry/8e9/x/1347466/image.gif",
+        "answer_1": "14",
+        "answer_2": "19",
+        "answer_3": "18",
+        "answer_4": "22",
+        "right_answer": "19"
+    },
+    {
+        "title": "Joey had an imaginary childhood friend. His name was what?",
+        "category": "The Lightning Round",
+        "img": "https://s3.r29static.com/bin/entry/934/x/1347472/image.jpg",
+        "answer_1": "Malcolm",
+        "answer_2": "Mark",
+        "answer_3": "Michael",
+        "answer_4": "Maurice",
+        "right_answer": "Maurice"
+    },
+    {
+        "title": "What was the imaginary friend's occupation?",
+        "category": "The Lightning Round",
+        "img": "https://s3.r29static.com/bin/entry/075/x/1347474/image.jpg",
+        "answer_1": "Pilot",
+        "answer_2": "Sandwich maker",
+        "answer_3": "Gym instructor",
+        "answer_4": "Space cowboy",
+        "right_answer": "Space cowboy"
+    },
+    {
+        "title": "What is Chandler Bing's job?",
+        "category": "The Lightning Round",
+        "img": "https://s1.r29static.com/bin/entry/c29/x/1347476/image.gif",
+        "answer_1": "IT procurement manager with the specialization 'Statistical analysis and data reconfiguration'",
+        "answer_2": "Accountant",
+        "answer_3": "Transponster",
+        "answer_4": "Something with numbers",
+        "right_answer": "IT procurement manager with the specialization 'Statistical analysis and data reconfiguration'"
     }
 ]
