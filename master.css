@@ -94,17 +94,18 @@ html {
   color: white;
   position: absolute;
   z-index: 2;
-  top: 50%;
-  transform: translateY(-50%);
+
   transition: all 0.3s ease-in-out;
   font-size: 30px;
 }
 #moon {
+  top: 5%;
   left: 10%;
   font-size: 20px;
 }
 #sun {
   right: 10%;
+  top: 30%;
   font-size: 10px;
 }
 /* Moon and night Icons Dark */
@@ -125,7 +126,6 @@ body {
 
 header {
   background-color: var(--main-color);
-  /* text-align: center; */
   padding: 20px;
   position: relative;
 }
