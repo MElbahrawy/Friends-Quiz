@@ -145,6 +145,7 @@ function showResult(num) {
   // remove questions and answers and show the total score
   if (countQ === num) {
     // questions and answers and next button
+    bodyHead.remove();
     questionDiv.remove();
     answerDiv.remove();
     btn.remove();
