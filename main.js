@@ -20,6 +20,7 @@ let countQ = 0;
 let score = 0;
 let countdownInterval;
 let user;
+const timer = 30;
 
 // Main
 fetch("questions.json")
@@ -39,7 +40,7 @@ fetch("questions.json")
           btn.style.display = "block";
           setNoQuestions(questions.length);
           setQuestions(questions[countQ], questions.length);
-          countdown(60, questions.length);
+          countdown(timer, questions.length);
           // when click next
           btn.onclick = () => {
             // Check if the answer is right and add to score
@@ -53,7 +54,7 @@ fetch("questions.json")
             setQuestions(questions[countQ], questions.length);
             setNoQuestions(questions.length);
             clearInterval(countdownInterval);
-            countdown(60, questions.length);
+            countdown(timer, questions.length);
             showResult(questions.length);
           };
         };
