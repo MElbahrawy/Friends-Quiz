@@ -167,16 +167,6 @@ main {
   width: 100%;
   inset: 4px;
 }
-.get-input {
-  position: relative;
-}
-.no-name {
-  position: absolute;
-  top: -20px;
-  left: 0;
-  font-size: 12px;
-  display: none;
-}
 .user-input {
   padding: 5px;
   text-align: center;
@@ -189,6 +179,7 @@ main {
   border-radius: 20px;
   margin: 5px;
   mix-blend-mode: difference;
+  letter-spacing: 1.2px;
 }
 
 .category {
